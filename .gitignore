@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-offline/
+.work/
+outputs/
+.env
+*.wav
+*.log
+*.sqlite3
+*.sqlite3-*
+*.dpapi
+
+# Test/tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Editors/OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Scratch output from ad-hoc local debugging/downloads; never intentional repo content
+_test_*/

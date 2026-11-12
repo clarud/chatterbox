@@ -1,0 +1,5 @@
+# OPTIONAL only. Use official Windows x64 CPython in a separate virtual environment.
+# Not installed or qualified on the current MSYS interpreter. This is not a lockfile.
+faster-whisper>=1.1,<2
+huggingface-hub>=0.24,<2
+llama-cpp-python>=0.3,<0.4
